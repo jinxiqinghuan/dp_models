@@ -1,3 +1,6 @@
+"""
+实现LeNet来分类cifar10，10个epoch的效果为50%左右
+"""
 import torch
 from torch import nn
 from torchvision import datasets, transforms
